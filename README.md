@@ -1,6 +1,8 @@
 # Heart Rate & Respiratory Monitor
 
-The hardware constructed for this project is **not** a medical device. It serves as an educational circuit to demonstrate practical signal processing techniques. The primary goal was to build a device capable of measuring a user’s pulse and respiration rate using optical reflection for pulse detection and a strain gauge for measuring breathing cycles.
+The hardware constructed for this project is **not** a medical device. It serves as an educational circuit to demonstrate practical signal processing techniques. The primary goal was to build a device capable of measuring a user’s pulse and respiration rate using optical reflection for pulse detection and a strain gauge for measuring breathing cycles. The project hardware can be viewed bellow, without the board present.
+
+![Project Picture](assets/picture.jpg)
 
 ## Project Overview
 The project had five main requirements, all of which were successfully achieved:
