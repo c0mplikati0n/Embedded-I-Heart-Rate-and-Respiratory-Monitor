@@ -1,0 +1,8 @@
+"./adc0.obj"
+"./clock.obj"
+"./lab9_Xavier_Portillo-Catalan.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./uart0.obj"
+"./wait.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
