@@ -35,7 +35,7 @@ The schematic responsible for measuring respiration rate is illustrated below:
 
 The schematic for connecting the speaker to a PWM output, implemented in the final part of the project, is shown here:
 
-![Schematic for the Speaker](assets/schematic2.png)
+![Schematic for the Speaker](assets/schematic3.png)
 
 Below is the layouts of the PC board:
 
